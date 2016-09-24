@@ -1,0 +1,19 @@
+header {
+  height: 100px;
+  background-repeat: no-repeat;
+  background-size: 300px 125px;
+  background-position: center;
+  background-image: url(https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png);
+}
+footer{
+  height: 120px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(https://angularjs.org/img/AngularJS-large.png);
+}
+h1,ul{
+  margin-left: 1em;
+}
+h2{
+  margin-left: 2em;
+}
